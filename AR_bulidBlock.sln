@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_bulidBlock", "Assembly-CSharp.csproj", "{FCBEFF2B-4FF9-C985-5601-85885284EAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_bulidBlock", "Assembly-CSharp-Editor.csproj", "{1CF178AF-35EE-138A-B64C-0B82F965B160}"
+EndProject
+Project("{2D8DC7ED-3BF9-825B-93DF-A9F6BB63FD02}") = "AR_bulidBlock", "Assembly-UnityScript-Editor-firstpass.unityproj", "{5EC91082-56A9-317B-4749-47757DB2E1FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCBEFF2B-4FF9-C985-5601-85885284EAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBEFF2B-4FF9-C985-5601-85885284EAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBEFF2B-4FF9-C985-5601-85885284EAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBEFF2B-4FF9-C985-5601-85885284EAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF178AF-35EE-138A-B64C-0B82F965B160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF178AF-35EE-138A-B64C-0B82F965B160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF178AF-35EE-138A-B64C-0B82F965B160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF178AF-35EE-138A-B64C-0B82F965B160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC91082-56A9-317B-4749-47757DB2E1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC91082-56A9-317B-4749-47757DB2E1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC91082-56A9-317B-4749-47757DB2E1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC91082-56A9-317B-4749-47757DB2E1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
